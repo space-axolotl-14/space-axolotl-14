@@ -124,7 +124,7 @@ figurines-security-2 = Вы нарушили статью 1984.
 figurines-security-3 = Всякий раз, как мне становится скучно, я использую клоуна в качестве мишени.
 figurines-security-4 = У тебя есть два права: молчать и поплакать об этом.
 # TODO перевести
-figurines-security-5 = Harmbaton? It sure as hell harms!
+figurines-security-5 = Шок-дубинка? Да уж, шокирует по полной!
 figurines-security-6 = Космической закон? Никогда о таком не слышал.
 figurines-security-7 = Случайный обыск. Сумку.
 figurines-security-8 = Люблю пончики.
