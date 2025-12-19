@@ -147,7 +147,7 @@ cmd-monitor-plus-all-hint = Показывает все мониторы
 
 
 ## 'setambientlight' command
-cmd-set-ambient-light-desc = Позволяет установить эмбиентное освещение для указанной карты, в формате SRGB.
+cmd-set-ambient-light-desc = Позволяет установить окружающее освещение для указанной карты, в формате SRGB.
 cmd-set-ambient-light-help = Использование: {$command} [mapid] [r g b a]
 cmd-set-ambient-light-parse = Не удалось спарсить аргументы как байтовые значения цветов.
 
@@ -400,7 +400,7 @@ cmd-tpto-parse-error = Не удается разрешить сущность �
 cmd-listplayers-desc = Перечисляет всех игроков, подключённых в данный момент.
 cmd-listplayers-help = Использование: {$command}
 
-cmd-kick-desc = Кикает подключённого игрока с сервера, отключая его от сети.
+cmd-kick-desc = Кикает подключённого игрока с сервера, отключая его.
 cmd-kick-help = Использование: {$command} <PlayerIndex> [<Причина>]
 
 # Spin command
