@@ -20,5 +20,5 @@ ent-ClothingBeltMilitaryWebbing = армейская РПС
     .desc = Ременно-плечевая система тактических ремней, которую носят абордажные группы Синдиката.
 ent-ClothingBeltMilitaryWebbingMed = армейская РПС медика
     .desc = Ременно-плечевая система тактических ремней, которую носят оперативники-медики Мародёров Горлекса.
-ent-ClothingBeltMilitaryWebbingERT = ERT chest rig
-    .desc = A set of tactical webbing worn by Emergency Response Team operatives.
+ent-ClothingBeltMilitaryWebbingERT = разгрузочный жилет ОБР
+    .desc = Ременно-плечевая система тактических ремней, которую носят оперативники отряда быстрого реагирования.

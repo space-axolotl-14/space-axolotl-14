@@ -56,5 +56,5 @@ reagent-name-mechanotoxin = механотоксин
 reagent-desc-mechanotoxin = Нейротоксин, используемый в качестве яда некоторыми видами пауков. При накоплении в организме затрудняет передвижение.
 reagent-name-toxintrash = переработанный материал
 reagent-desc-toxintrash = Ужасно пахнущая жижа, эффективно очищенная от отходов. Она представляет собой идеальное, безотходное преобразование отходов в пищу для Воксов, хотя для других она является сильным ядом.
-reagent-name-hemorrhinol = hemorrhinol
-reagent-desc-hemorrhinol = A toxin that causes severe damage to blood vessels, causing rapid bleeding.
+reagent-name-hemorrhinol = геморринол
+reagent-desc-hemorrhinol = Токсин, вызывающий серьёзные повреждения кровеносных сосудов, приводя к быстрому кровотечению.
