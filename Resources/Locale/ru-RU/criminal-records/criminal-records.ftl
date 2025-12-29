@@ -50,7 +50,7 @@ criminal-records-console-unknown-officer = <неизвестный>
 
 ## Filters
 
-criminal-records-filter-placeholder = Введите текст и нажмите "Enter"
+criminal-records-filter-placeholder = Введите текст и нажмите «Enter»
 criminal-records-name-filter = Имя
 criminal-records-prints-filter = Отпечатки пальцев
 criminal-records-dna-filter = ДНК

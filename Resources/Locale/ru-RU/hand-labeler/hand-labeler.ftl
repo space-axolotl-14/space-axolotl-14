@@ -10,10 +10,10 @@ hand-labeler-successfully-applied = Этикетка успешно наклее
 # When the hand labeler removes a label successfully
 hand-labeler-successfully-removed = Этикетка успешно удалена
 # Appended to the description of an object with a label on input
-hand-labeler-has-label = На объекте имеется этикетка "{ $label }"
+hand-labeler-has-label = На объекте имеется этикетка «{ $label }»
 # Verb text
 hand-labeler-remove-label-text = Удалить этикетку
 hand-labeler-add-label-text = Наклеить этикетку
 # Shown when the labeler is examined
 hand-labeler-examine-blank = Этикетка пуста.
-hand-labeler-examine-label-text = Этикетка гласит "{ $label-text }".
+hand-labeler-examine-label-text = Этикетка гласит «{ $label-text }».

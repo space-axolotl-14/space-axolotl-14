@@ -1,4 +1,4 @@
-### Localization for engine console commands
+﻿### Localization for engine console commands
 
 cmd-hint-float = [float]
 
@@ -12,7 +12,7 @@ cmd-parse-failure-uid = { $arg } не является допустимым UID 
 cmd-parse-failure-mapid = { $arg } не является допустимым MapId.
 cmd-parse-failure-enum = { $arg } не является { $enum } Enum.
 cmd-parse-failure-grid = { $arg } не является допустимым гридом.
-cmd-parse-failure-cultureinfo = "{ $arg }" не является допустимым CultureInfo.
+cmd-parse-failure-cultureinfo = «{ $arg }» не является допустимым CultureInfo.
 cmd-parse-failure-entity-exist = UID { $arg } не соответствует существующей сущности.
 cmd-parse-failure-session = Не существует сессии с именем пользователя: { $username }
 cmd-error-file-not-found = Не удалось найти файл: { $file }.
@@ -149,7 +149,7 @@ cmd-monitor-desc = cmd-monitor-desc = Переключение отладочн�
 cmd-monitor-help =
     Использование: { $command } <имя>
     Возможные мониторы: { $monitors }
-    Вы также можете использовать специальные значения "-all" и "+all", чтобы соответственно скрыть или показать все мониторы.
+    Вы также можете использовать специальные значения «-all» и «+all», чтобы соответственно скрыть или показать все мониторы.
 cmd-monitor-arg-monitor = <monitor>
 cmd-monitor-invalid-name = Недопустимое имя монитора
 cmd-monitor-arg-count = Отсутствует аргумент монитора

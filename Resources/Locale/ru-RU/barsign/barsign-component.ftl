@@ -38,7 +38,7 @@ barsign-prototype-description-coderbus = Очень противоречивый
 ## Robusta Cafe
 
 barsign-prototype-name-robusta-cafe = Кафе Робуста
-barsign-prototype-description-robusta-cafe = Неоспоримый обладатель рекорда "Самые смертоносные бои" уже 5 лет.
+barsign-prototype-description-robusta-cafe = Неоспоримый обладатель рекорда «Самые смертоносные бои» уже 5 лет.
 
 ## Emergency Rum Party
 
@@ -118,7 +118,7 @@ barsign-prototype-description-emprah = Нравится и фанатикам, �
 ## Spacebucks
 
 barsign-prototype-name-spacebucks = Спейсбакс
-barsign-prototype-description-spacebucks = От них нельзя скрыться, даже в космосе, и даже после того, как некоторые стали называть их "срубли".
+barsign-prototype-description-spacebucks = От них нельзя скрыться, даже в космосе, и даже после того, как некоторые стали называть их «срубли».
 
 ## Maltroach
 

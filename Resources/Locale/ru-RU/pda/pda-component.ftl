@@ -28,4 +28,4 @@ pda-bound-user-interface-music-button = Музыкальный инструме�
 comp-pda-ui-unknown = Неизвестно
 comp-pda-ui-unassigned = Не назначено
 pda-notification-message = [font size=12][bold]КПК[/bold] { $header }: [/font]
-    "{ $message }"
+    «{ $message }»

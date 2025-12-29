@@ -8,7 +8,7 @@ names-moth-first-male-dataset-3 = Аттакус
 names-moth-first-male-dataset-4 = Цезарь
 # Coscinocera hercules
 names-moth-first-male-dataset-5 = Геркулес
-# Itame brunneata, "Rannoch Looper"
+# Itame brunneata, «Rannoch Looper»
 names-moth-first-male-dataset-6 = Раннох
 # Acosmeryx socrates
 names-moth-first-male-dataset-7 = Сократ
@@ -17,17 +17,17 @@ names-moth-first-male-dataset-8 = Солус
 
 ## Other languages
 
-# Hebrew עש "moth"
+# Hebrew עש «moth»
 names-moth-first-male-dataset-9 = Эш
-# Persian "fire"
+# Persian «fire»
 names-moth-first-male-dataset-10 = Азар
-# German "emperor" descendant of the Latin caesar
+# German «emperor» descendant of the Latin caesar
 names-moth-first-male-dataset-11 = Кайзер
-# Latin "king"
+# Latin «king»
 names-moth-first-male-dataset-12 = Рекс
-# Sanskrit "darkness" or "dust"
+# Sanskrit «darkness» or «dust»
 names-moth-first-male-dataset-13 = Раджас
-# Greek "clothes moth"
+# Greek «clothes moth»
 names-moth-first-male-dataset-14 = Скорос
 
 ## Myth and legend
@@ -52,7 +52,7 @@ names-moth-first-male-dataset-22 = Люцифер
 names-moth-first-male-dataset-23 = Мерлин
 # Another Greek figure, similar to Icarus
 names-moth-first-male-dataset-24 = Фаэтон
-# Rendering of Bladud from the Welsh blaidd "wolf" + iudd "lord"
+# Rendering of Bladud from the Welsh blaidd «wolf» + iudd «lord»
 names-moth-first-male-dataset-25 = Волфорд
 
 ## Fun names

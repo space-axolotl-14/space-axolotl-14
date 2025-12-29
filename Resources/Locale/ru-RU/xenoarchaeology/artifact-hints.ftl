@@ -23,7 +23,7 @@ artifact-effect-hint-magnet = Магнитные волны
 artifact-effect-hint-visual = Визуальное искажение
 
 # the triggers should be more obvious than the effects
-# gives people an idea of what to do: don't be too specific (i.e. no "welders")
+# gives people an idea of what to do: don't be too specific (i.e. no «welders»)
 
 artifact-trigger-hint-electricity = Электричество
 artifact-trigger-hint-heat = Высокая температура

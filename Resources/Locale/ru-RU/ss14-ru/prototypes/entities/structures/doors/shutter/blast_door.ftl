@@ -1,5 +1,5 @@
 ent-BlastDoor = гермозатвор
-    .desc = Имеется надпись "ОПАСНОСТЬ ВЗРЫВА".
+    .desc = Имеется надпись «ОПАСНОСТЬ ВЗРЫВА».
 ent-BlastDoorOpen = { ent-BlastDoor }
     .suffix = Открытый
     .desc = { ent-BlastDoor.desc }
@@ -11,7 +11,7 @@ ent-BlastDoorXenoOpen = { ent-BlastDoorXeno }
     .suffix = Открытый
     .desc = { ent-BlastDoorXeno.desc }
 ent-BlastDoorXenoFrame = каркас ксеногермозатора
-    .desc = Имеется надпись "ОПАСНОСТЬ ВЗРЫВА".
+    .desc = Имеется надпись «ОПАСНОСТЬ ВЗРЫВА».
 ent-BlastDoorXenoborg = ксеноборг-гермозатвор
     .desc = Не потеряйте голову!
 ent-BlastDoorXenoborgOpen = { ent-BlastDoorXenoborg }

@@ -16,7 +16,7 @@ names-moth-first-female-dataset-7 = Лакесис
 names-moth-first-female-dataset-8 = Луна
 # Lymantria
 names-moth-first-female-dataset-9 = Лиманция
-# Dryocampa rubicunda, "Rosy Maple"
+# Dryocampa rubicunda, «Rosy Maple»
 names-moth-first-female-dataset-10 = Мэппл
 # Mimas
 names-moth-first-female-dataset-11 = Мима
@@ -24,22 +24,22 @@ names-moth-first-female-dataset-11 = Мима
 names-moth-first-female-dataset-12 = Нефель
 # Dryocampa rubicunda
 names-moth-first-female-dataset-13 = Рози
-# Cosmosoma myrodora, "Scarlet-bodied wasp moth"
+# Cosmosoma myrodora, «Scarlet-bodied wasp moth»
 names-moth-first-female-dataset-14 = Скарлет
 # Acherontia styx
 names-moth-first-female-dataset-15 = Стикс
 
 ## Other languages
 
-# Galician "moth" (avelaíña)
+# Galician «moth» (avelaíña)
 names-moth-first-female-dataset-16 = Авелина
-# Italian "winter moth"
+# Italian «winter moth»
 names-moth-first-female-dataset-17 = Фалена
-# Greek "moon gift"
+# Greek «moon gift»
 names-moth-first-female-dataset-18 = Менодора
-# Romanian "moth"
+# Romanian «moth»
 names-moth-first-female-dataset-19 = Моли
-# Spanish "moth"
+# Spanish «moth»
 names-moth-first-female-dataset-20 = Полилла
 
 ## Myth and legend

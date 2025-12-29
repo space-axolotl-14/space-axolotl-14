@@ -1,4 +1,4 @@
-# Used internally by the THE() function.
+﻿# Used internally by the THE() function.
 zzzz-the =
     { PROPER($ent) ->
        *[false] { $ent }

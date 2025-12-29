@@ -37,5 +37,5 @@ hud-chatbox-highlights-tooltip =
     если отделены пробелами или знаками препинания.
 hud-chatbox-highlights-placeholder =
     @МакХэндс
-    "Судья"
+    «Судья»
     Медблок

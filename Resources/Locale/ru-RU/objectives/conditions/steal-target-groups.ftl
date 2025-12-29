@@ -53,7 +53,7 @@ steal-target-groups-fax-machine-captain = факс дальнего действ
 steal-target-groups-chem-dispenser = химический раздатчик
 steal-target-groups-xeno-artifact = инопланетный артефакт
 steal-target-groups-booze-dispenser = раздатчик алкоголя
-steal-target-groups-plant-rd = "комнатное растение научрука"
+steal-target-groups-plant-rd = «комнатное растение научрука»
 steal-target-groups-toilet-golden-dirty-water = золотой унитаз
 # Thief Animal
 steal-target-groups-animal-named-cat = кот главного врача

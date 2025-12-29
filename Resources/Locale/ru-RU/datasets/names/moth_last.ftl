@@ -17,9 +17,9 @@ names-moth-last-dataset-8 = Винтер
 
 ## Other languages
 
-# Ancient Greek "moth"
+# Ancient Greek «moth»
 names-moth-last-dataset-9 = Епилос
-# Conceivably any Old Norse descendant of mǫlr but probably more Danish than anything. "oe" digraph for ø.
+# Conceivably any Old Norse descendant of mǫlr but probably more Danish than anything. «oe» digraph for ø.
 names-moth-last-dataset-10 = Моеллер
 # Literal pseudo-translation of German Nachtfalter
 names-moth-last-dataset-11 = Найтфлайтер

@@ -9,4 +9,4 @@ radio-jammer-component-setting-low = Низкая
 radio-jammer-component-set-message-high = Глушитель связи теперь работает на высокой мощности.
 radio-jammer-component-set-message-medium = Глушитель связи теперь работает на средней мощности.
 radio-jammer-component-set-message-low = Глушитель связи теперь работает на низкой мощности.
-radio-jammer-component-switch-setting = Переключатель уровня мощности установлен в положение "[color=yellow]{ $powerLevel }[/color]".
+radio-jammer-component-switch-setting = Переключатель уровня мощности установлен в положение «[color=yellow]{ $powerLevel }[/color]».

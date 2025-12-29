@@ -2,7 +2,7 @@ names-ai-dataset-1 = 16-20
 names-ai-dataset-2 = 512k
 # Ought to be enough for anybody
 names-ai-dataset-3 = 640k
-names-ai-dataset-4 = "790"
+names-ai-dataset-4 = «790»
 names-ai-dataset-5 = Адаптивный Манипулятор
 # Named after the famous soundcard
 names-ai-dataset-6 = Адлиб
@@ -60,7 +60,7 @@ names-ai-dataset-53 = Хэдэли
 names-ai-dataset-54 = Гелиос
 names-ai-dataset-55 = УлейБот Сверхразум
 names-ai-dataset-56 = Хьюи
-# A play on the fad apple spawned of putting "i" infront of your tech products name
+# A play on the fad apple spawned of putting «i» infront of your tech products name
 names-ai-dataset-57 = айЯдро
 # Hell on earth (web browser)
 names-ai-dataset-58 = I.E. 6
