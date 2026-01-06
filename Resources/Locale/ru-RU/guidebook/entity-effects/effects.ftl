@@ -558,4 +558,4 @@ entity-effect-guidebook-plant-mutate-chemicals =
     { $chance ->
         [1] Мутирует
        *[other] мутируют
-    } растение, чтобы ты производило { $name }
+    } растение, чтобы то производило { $name }
