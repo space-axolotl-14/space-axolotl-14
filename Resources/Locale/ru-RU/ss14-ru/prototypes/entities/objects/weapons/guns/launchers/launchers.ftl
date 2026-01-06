@@ -5,8 +5,7 @@ ent-WeaponLauncherChinaLake = China Lake
 ent-WeaponLauncherHydra = гидра
     .desc = БЛУП... ПШШШШШШ...
 ent-WeaponLauncherHydraLethal = { ent-WeaponLauncherHydra }
-# TODO перевод
-    .suffix = frag
+    .suffix = осколочная граната
     .desc = { ent-WeaponLauncherHydra.desc }
 ent-WeaponLauncherRocket = РПГ-7
     .desc = Древний ручной реактивный гранатомёт.
