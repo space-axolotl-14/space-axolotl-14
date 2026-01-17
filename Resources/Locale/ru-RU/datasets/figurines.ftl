@@ -35,7 +35,7 @@ figurines-salvage-2 = Мы потерялись. Кто-то взял ГСП?
 figurines-salvage-3 = У кого-то есть кислород?
 figurines-salvage-4 = Я нашёл кроваво-красный скафандр и энерго меч!
 figurines-salvage-5 = Медведи? В космосе?
-# TODO перевести
+# TODO перевод
 figurines-salvage-6 = Crusher? I barely know her!
 figurines-salvage-7 = Кто-то может меня подобрать?
 figurines-salvage-8 = Я нашёл эту контрабанду на обломке! Она не моя!
@@ -54,7 +54,7 @@ figurines-atmostech-2 = Я сожгу тебя в камере сгорания.
 figurines-atmostech-3 = Фрезон...
 figurines-atmostech-4 = Тритий...
 figurines-atmostech-5 = Слава Атмосии!
-# TODO перевести
+# TODO перевод
 figurines-atmostech-6 = Distro? That's short for disposal.
 figurines-atmostech-8 = Does anyone else hear glass cracking?
 figurines-atmostech-9 = I promise this burn chamber is totally safe and will NOT explode.
