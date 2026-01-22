@@ -10,7 +10,7 @@ station-ai-core-losing-power = Ваше ядро ИИ питается от ре
 station-ai-core-critical-power = Ваше ядро ИИ имеет критически низкий уровень энергии. Возобновите внешнее питание, иначе может произойти серьёзное повреждение данных!
 # Ghost role
 station-ai-ghost-role-name = Станционный ИИ
-station-ai-ghost-role-description = Служите станции в качестве её всегда наблюдающего ИИ.
+station-ai-ghost-role-description = Служите станции в качестве вечно наблюдающего ИИ.
 # Radial actions
 ai-open = Открыть действия
 ai-close = Закрыть действия
