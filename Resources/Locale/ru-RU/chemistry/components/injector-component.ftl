@@ -1,8 +1,8 @@
 ## UI
 
-injector-volume-transfer-label = Объём: [color=white]{$currentVolume}/{$totalVolume}u[/color]
-    Режим: [color=white]{$modeString}[/color] ([color=white]{$transferVolume}u[/color])
-injector-volume-label = Объём: [color=white]{$currentVolume}/{$totalVolume}u[/color]
+injector-volume-transfer-label = Объём: [color=white]{$currentVolume}/{$totalVolume} ед.[/color]
+    Режим: [color=white]{$modeString}[/color] ([color=white]{$transferVolume} ед.[/color])
+injector-volume-label = Объём: [color=white]{$currentVolume}/{$totalVolume} ед.[/color]
     Режим: [color=white]{$modeString}[/color]
 injector-toggle-verb-text = Переключить режим инъектора
 
@@ -25,7 +25,7 @@ injector-component-target-already-full-message = { CAPITALIZE($target) } пол�
 injector-component-target-already-full-message-self = Вы уже полны!
 injector-component-target-is-empty-message = { CAPITALIZE($target) } пуст!
 injector-component-target-is-empty-message-self = Вы пусты!
-injector-component-cannot-toggle-draw-message = Полон для забора!
+injector-component-cannot-toggle-draw-message = Больше не набрать!
 injector-component-cannot-toggle-inject-message = Нечего вводить!
 injector-component-cannot-toggle-dynamic-message = Нельзя включить динамический!
 injector-component-empty-message = {CAPITALIZE($injector)} пуст!
@@ -45,7 +45,7 @@ injector-component-needle-injecting-user = Вы начинаете вводит�
 injector-component-needle-injecting-target = {CAPITALIZE($user)} пытается ввести в вас шприц!
 injector-component-needle-drawing-user = Вы начинаете набирать шприц.
 injector-component-needle-drawing-target = {CAPITALIZE($user)} пытается набрать шприц из вас!
-injector-component-spray-injecting-user = Вы подготавливаете впрыскивающее сопло. You start preparing the spray nozzle.
+injector-component-spray-injecting-user = Вы подготавливаете впрыскивающее сопло.
 injector-component-spray-injecting-target = {CAPITALIZE($user)} пытается приложить к вам впрыскивающее сопло!
 
 ## Target Popup Success messages

@@ -13,6 +13,6 @@ comp-shield-damaged-5 = [color=orange]На нём глубокие трещин�
 comp-shield-damaged-6 = [color=red]С ним обращались крайне жестоко и он вот-вот развалится.[/color]
 # Shown when examining the e-shield. Each entry represents the e-shield's health condition
 comp-eshield-damaged-1 = Выглядит совершенно целым.
-comp-eshield-damaged-2 = [color=yellow]Его индикатор заряда жёлтый.[/color]
-comp-eshield-damaged-3 = [color=orange]Его индикатор заряда оранжевый, а твёрдый свет мерцает.[/color]
-comp-eshield-damaged-4 = [color=red]Его индикатор заряда красный, а твёрдый свет едва держится включённым.[/color]
+comp-eshield-damaged-2 = [color=yellow]Индикатор заряда горит жёлтым.[/color]
+comp-eshield-damaged-3 = [color=orange]Индикатор заряда горит оранжевым, а твёрдый свет мерцает.[/color]
+comp-eshield-damaged-4 = [color=red]Индикатор заряда горит красным, а твёрдый свет едва держится включённым.[/color]
