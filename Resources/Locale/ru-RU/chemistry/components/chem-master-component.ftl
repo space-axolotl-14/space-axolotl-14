@@ -38,6 +38,6 @@ chem-master-output-buffer-draw = Буфер
 chem-master-output-beaker-draw = Мензурка
 chem-master-window-no-beaker-text = Мензурки нет
 chem-master-window-beaker-empty-text = Мензурка пуста
-chem-master-window-beaker-low-text = В мензурке недостаточно жидкости
+chem-master-window-beaker-low-text = В мензурке недостаточно вещества
 chem-master-output-source = Источник упаковки:
 chem-master-no-source = Нет источника
